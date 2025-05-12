@@ -1,0 +1,10 @@
+com/groupal/projects/application/usecases/ProjectService.class
+com/groupal/projects/core/model/Project.class
+com/groupal/projects/core/model/ProjectStatus.class
+com/groupal/projects/infrastructure/external/SendbirdClient.class
+com/groupal/projects/application/dto/ProjectDTO.class
+com/groupal/projects/infrastructure/persistence/ProjectJpaRepository.class
+com/groupal/projects/infrastructure/config/JpaConfig.class
+com/groupal/projects/Demo1Application.class
+com/groupal/projects/infrastructure/config/SendbirdConfig.class
+com/groupal/projects/core/repositories/ProjectRepository.class

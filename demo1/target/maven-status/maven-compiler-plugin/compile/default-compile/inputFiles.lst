@@ -1,0 +1,12 @@
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/Demo1Application.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/application/dto/ProjectDTO.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/application/usecases/ProjectService.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/core/model/Project.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/core/model/ProjectStatus.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/core/repositories/ProjectRepository.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/infrastructure/config/JpaConfig.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/infrastructure/config/SendbirdConfig.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/infrastructure/external/SendbirdClient.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/infrastructure/persistence/ProjectJpaRepository.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/interfaces/api/ProjectMapper.java
+/Users/mathiasadrianohidalgolopez/Downloads/demo1/src/main/java/com/groupal/projects/interfaces/rest/ProjectController.java
